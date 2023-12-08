@@ -1,1 +1,2 @@
 # se-liga
+ O Se Liga surgiu em 2001 em função da necessidade de atender uma grande parcela de estudantes com distorção idade-série que estavam em turmas da solução educacional Acelera Brasil, mas que não conseguiam acompanhar o programa pois não sabiam ler e escrever.
